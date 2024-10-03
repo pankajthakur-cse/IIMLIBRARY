@@ -1,6 +1,8 @@
 
-        
+
+
 <?php include 'header.php';?>
+
 
          <div class="main-content">
             <section id="home">
@@ -827,5 +829,5 @@
          </div>
 
 
-         <?php include 'footer.php';?>
-      
+
+<?php include 'footer.php';?>

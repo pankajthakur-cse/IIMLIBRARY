@@ -1,4 +1,4 @@
-   <footer id="footer" class="footer divider layer-overlay overlay-dark-9" data-bg-img="images/bg/bg2.jpg">
+      <footer id="footer" class="footer divider layer-overlay overlay-dark-9" data-bg-img="images/bg/bg2.jpg">
             <div class="container">
                <div class="row border-bottom">
                   <div class="col-sm-6 col-md-3">
